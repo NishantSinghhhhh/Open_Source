@@ -514,7 +514,7 @@ nav {
 }
 
 .banner__wrapper img {
-  height: 10px;
+  height: 100px;
 }
 
 @keyframes scroll {
